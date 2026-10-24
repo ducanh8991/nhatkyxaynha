@@ -1,0 +1,71 @@
+{
+  "site": {
+    "name": "Nhật ký xây nhà",
+    "url": "https://nhatkyxaynha.vn",
+    "home_title": "Hành trình ngôi nhà · Nhật ký xây nhà",
+    "description": "Truyện hai phút, công cụ dùng ngay và cẩm nang cho người lần đầu xây nhà: tám chặng từ lúc bàn nhau đến khi ở nhà mới.",
+    "zalo_oa": "",
+    "show_drafts": true
+  },
+  "layers": [
+    {"key": "truyen", "label": "Truyện", "desc": "Truyện hai phút có tranh, để cảm nhận vấn đề."},
+    {"key": "lam-thu", "label": "Làm thử", "desc": "Công cụ nhỏ để áp dụng cho nhà mình."},
+    {"key": "cam-nang", "label": "Cẩm nang", "desc": "Giải thích kỹ, các bước, sai lầm thường gặp."},
+    {"key": "chuyen-sau", "label": "Chuyên sâu", "desc": "Căn cứ, biểu mẫu, con số để tra cứu."}
+  ],
+  "stages": [
+    {"n": 1, "label": "Nhu cầu và ngân sách", "poetic": "Ngồi lại với nhau",
+     "intro": "Trước khi nghĩ đến kiểu nhà, cả nhà ngồi lại để nói ra mình sống thế nào và có bao nhiêu tiền. Làm kỹ chặng này thì các chặng sau đỡ phải sửa."},
+    {"n": 2, "label": "Thiết kế", "poetic": "Vẽ nên hình hài",
+     "intro": "Bản vẽ biến nhu cầu của cả nhà thành một ngôi nhà cụ thể. Chặng này là lúc sửa rẻ nhất: sửa trên giấy luôn rẻ hơn đập ra làm lại."},
+    {"n": 3, "label": "Giấy phép", "poetic": "Xin một lời đồng ý",
+     "intro": "Từ 1/7/2026, nhiều nhà ở riêng lẻ được miễn giấy phép, nhưng không phải nhà nào cũng thế. Chặng này giúp bạn biết nhà mình thuộc trường hợp nào và cần làm gì."},
+    {"n": 4, "label": "Nhà thầu và hợp đồng", "poetic": "Chọn bạn đồng hành",
+     "intro": "Chọn người xây là chọn người sẽ ở cạnh nhà mình suốt nhiều tháng. Báo giá rõ và hợp đồng rõ giúp hai bên giữ được hòa khí đến ngày bàn giao."},
+    {"n": 5, "label": "Chuẩn bị khởi công", "poetic": "Trước ngày gõ búa",
+     "intro": "Có những việc phải xong trước khi viên gạch đầu tiên được đặt xuống: hàng xóm, giấy tờ, điện nước tạm, chỗ để vật tư. Chuẩn bị tốt thì ngày khởi công chỉ còn là ngày vui."},
+    {"n": 6, "label": "Thi công phần thô và hoàn thiện", "poetic": "Những thứ sẽ được che lấp",
+     "intro": "Đây là chặng dài nhất và cũng là chặng nhiều phần sẽ bị che lấp mãi mãi: móng, thép, đường ống trong tường. Chủ nhà cần biết lúc nào phải có mặt và nhìn tận mắt."},
+    {"n": 7, "label": "Bàn giao", "poetic": "Ngày nhận chìa khóa",
+     "intro": "Nhận nhà là lúc cuối cùng còn dễ đề nghị sửa. Đi một vòng thật chậm, ghi lại từng chỗ chưa ổn và nhận đủ giấy tờ trước khi thanh toán lần cuối."},
+    {"n": 8, "label": "Sử dụng và bảo trì", "poetic": "Ngôi nhà có trí nhớ",
+     "intro": "Ngôi nhà sống cùng gia đình hàng chục năm. Một cuốn sổ tay và vài việc chăm sóc theo mùa giúp nhà bền và giúp bạn biết phải làm gì khi có sự cố."}
+  ],
+  "stories": [
+    {"id": "be-na-ve-nha", "code": "T1.1", "stage": 1, "title": "Bé Na vẽ nhà", "topic": "Nhu cầu của cả nhà", "hook": "Trẻ con vẽ nhà theo cách mình sống.", "learn": "vì sao nên hỏi cách cả nhà đang sống trước khi chọn kiểu nhà.", "tool": "ban-mo-ta-nhu-cau", "deeper": "chuan-bi-gap-kien-truc-su"},
+    {"id": "noi-canh-cua-ba", "code": "T1.2", "stage": 1, "title": "Nồi canh của bà", "topic": "Ngân sách và dự phòng", "hook": "Nấu canh bao giờ cũng phải chừa chỗ để nêm.", "learn": "vì sao nên chừa khoảng một phần mười cho những điều chưa biết trước.", "tool": "noi-canh-ngan-sach", "deeper": "lap-ngan-sach-xay-nha"},
+    {"id": "ao-may-do", "code": "T2.1", "stage": 2, "title": "Chiếc áo may đo", "topic": "Duyệt bản vẽ", "hook": "Thợ may đo người mặc, không đo ma-nơ-canh.", "learn": "vì sao phải “mặc thử” bản vẽ trước khi chốt.", "tool": "mac-thu-ban-ve", "deeper": "sua-ban-ve-va-chot-thiet-ke"},
+    {"id": "giay-xin-phep", "code": "T3.1", "stage": 3, "title": "Tờ giấy xin phép", "topic": "Giấy phép xây dựng", "hook": "Đi chơi xa có xin phép, về nhà mới ngủ ngon.", "learn": "vì sao nên hỏi xã hoặc phường, dù báo nói nhà mình được miễn.", "tool": "can-xin-phep-khong", "deeper": "khi-nao-can-giay-phep"},
+    {"id": "di-cho", "code": "T4.1", "stage": 4, "title": "Đi chợ có danh sách", "topic": "So sánh báo giá", "hook": "Ba người đi chợ, ba danh sách khác nhau, so giá kiểu gì?", "learn": "vì sao các báo giá phải cùng một danh mục mới so được.", "tool": "so-ba-bao-gia", "deeper": "doc-va-so-sanh-bao-gia"},
+    {"id": "bat-tay", "code": "T4.2", "stage": 4, "title": "Cái bắt tay và tờ giấy", "topic": "Hợp đồng thi công", "hook": "Bạn thân cho vay tiền vẫn viết giấy.", "learn": "vì sao làm với người quen vẫn cần hợp đồng.", "tool": "muoi-dieu-trong-hop-dong", "deeper": "cac-hinh-thuc-giao-thau"},
+    {"id": "mam-com", "code": "T5.1", "stage": 5, "title": "Mâm cơm ra mắt hàng xóm", "topic": "Hàng xóm", "hook": "Có thứ cần chuẩn bị mà cửa hàng vật liệu không bán.", "learn": "vì sao nên gặp hàng xóm trước ngày khởi công.", "tool": "truoc-ngay-go-bua", "deeper": "giu-hoa-khi-voi-hang-xom"},
+    {"id": "hop-thiec", "code": "T5.2", "stage": 5, "title": "Cái hộp thiếc của bà", "topic": "Lưu giữ giấy tờ", "hook": "Sáu mươi năm, ba lần chuyển nhà, chưa mất tờ giấy nào.", "learn": "vì sao giấy tờ của ngôi nhà cần có chỗ và có tên.", "tool": "dat-ten-giay-to", "deeper": "sap-xep-ho-so-ngoi-nha"},
+    {"id": "dap-chan", "code": "T6.1", "stage": 6, "title": "Ngắm con trước khi đắp chăn", "topic": "Kiểm tra phần ẩn", "hook": "Có những phần của ngôi nhà chỉ được nhìn thấy một lần.", "learn": "vì sao phải xem kỹ những phần sắp bị che lấp.", "tool": "kiem-tra-truoc-khi-che-lap", "deeper": "hang-muc-kiem-tra-truoc-khi-che-lap"},
+    {"id": "nhat-ky", "code": "T6.2", "stage": 6, "title": "Nhật ký của chị Hạnh", "topic": "Nhật ký công trình", "hook": "Trí nhớ chiều theo điều ta muốn tin. Nhật ký thì không.", "learn": "vì sao nên ghi chép công trình mỗi ngày.", "tool": "nhat-ky-hai-phut", "deeper": "trinh-tu-thi-cong-phan-tho"},
+    {"id": "nhan-chia-khoa", "code": "T7.1", "stage": 7, "title": "Lần đầu nhận chìa khóa", "topic": "Nghiệm thu bàn giao", "hook": "Bà đi một vòng nhà, chậm rãi như đi khám sức khỏe.", "learn": "vì sao nên đi một vòng thật chậm trước khi nhận nhà.", "tool": "kiem-tra-khi-nhan-nha", "deeper": "nghiem-thu-va-nhan-ban-giao"},
+    {"id": "so-tay", "code": "T8.1", "stage": 8, "title": "Cuốn sổ tay ngôi nhà", "topic": "Sổ tay ngôi nhà", "hook": "Như sổ khám bệnh theo con suốt đời.", "learn": "vì sao ngôi nhà cần một cuốn “sổ khám bệnh”.", "tool": "lich-cham-ngoi-nha", "deeper": "lap-so-tay-ngoi-nha"}
+  ],
+  "tools": [
+    {"slug": "ban-mo-ta-nhu-cau", "code": "C1.1", "stage": 1, "story": "be-na-ve-nha", "name": "Bản mô tả nhu cầu một trang", "when": "Trước khi gặp kiến trúc sư hoặc thợ, để cả nhà nói ra mình cần gì.", "desc": "Năm câu hỏi để hỏi cả nhà bên mâm cơm. Câu trả lời chỉ lưu trong trình duyệt của bạn, và có thể sao chép để gửi kiến trúc sư."},
+    {"slug": "noi-canh-ngan-sach", "code": "C1.2", "stage": 1, "story": "noi-canh-cua-ba", "name": "Ước ngân sách", "poetic": "Nồi canh ngân sách", "when": "Khi muốn biết số tiền nhà mình có đã đủ chưa, kể cả các khoản hay quên và dự phòng.", "desc": "Đổ các khoản chi vào nồi và xem nồi còn chỗ để nêm không. Số liệu có sẵn chỉ là ví dụ, hãy thay bằng con số của nhà bạn."},
+    {"slug": "mac-thu-ban-ve", "code": "C2.1", "stage": 2, "story": "ao-may-do", "name": "Mặc thử bản vẽ", "when": "Khi có bản vẽ đầu tiên và trước khi ký chốt thiết kế.", "desc": "Sáu câu hỏi để “đi” trong bản vẽ, và bốn thứ nên có trước khi cắt vải. Dấu tick được giữ trong trình duyệt của bạn."},
+    {"slug": "can-xin-phep-khong", "code": "C3.1", "stage": 3, "story": "giay-xin-phep", "name": "Nhà tôi có cần xin phép không?", "when": "Khi đã biết sơ bộ nhà mấy tầng, rộng bao nhiêu và lô đất nằm ở đâu.", "desc": "Ba câu hỏi nhanh theo Luật Xây dựng 2025, có hiệu lực từ 1/7/2026. Kết quả chỉ để định hướng, hãy hỏi lại xã hoặc phường nơi có đất.", "review_note": "Nội dung công cụ dựa trên Luật Xây dựng số 135/2025/QH15. Ngày rà soát: chờ anh Tùng xác nhận."},
+    {"slug": "so-ba-bao-gia", "code": "C4.1", "stage": 4, "story": "di-cho", "name": "So ba báo giá", "when": "Khi đã có báo giá của hai, ba nhà thầu và muốn biết so được chưa.", "desc": "Đánh dấu những mục mỗi báo giá đã ghi rõ. Chỉ khi cả ba đủ mục, so đơn giá mới có ý nghĩa. Số có sẵn là ví dụ."},
+    {"slug": "muoi-dieu-trong-hop-dong", "code": "C4.2", "stage": 4, "story": "bat-tay", "name": "Mười điều nên có trong hợp đồng", "poetic": "Mười điều nên có trong tờ giấy", "when": "Trước khi ký hợp đồng với nhà thầu, kể cả khi là người quen.", "desc": "Tick những điều hợp đồng của bạn đã ghi rõ. Điều nào chưa có, ngồi lại với nhà thầu và viết thêm."},
+    {"slug": "truoc-ngay-go-bua", "code": "C5.1", "stage": 5, "story": "mam-com", "name": "Trước ngày gõ búa", "when": "Một đến hai tuần trước ngày khởi công.", "desc": "Bảy việc nên làm với hàng xóm trước khi khởi công."},
+    {"slug": "dat-ten-giay-to", "code": "C5.2", "stage": 5, "story": "hop-thiec", "name": "Đặt tên cho từng tờ giấy", "when": "Khi bắt đầu có bản vẽ, hợp đồng, hóa đơn cần cất giữ.", "desc": "Một cái tên tốt cho biết đó là gì, ngày nào, bản thứ mấy và đã chốt chưa. Gõ thử, rồi sao chép tên để dùng."},
+    {"slug": "kiem-tra-truoc-khi-che-lap", "code": "C6.1", "stage": 6, "story": "dap-chan", "name": "Kiểm tra trước khi che lấp", "poetic": "Ngắm trước khi đắp chăn", "when": "Trước mỗi lần đổ bê tông, trát tường hay lát sàn.", "desc": "Những mốc cần nhìn tận mắt trước khi bê tông hay vữa trát phủ lên. Tick từng việc khi đã xem và đã chụp ảnh."},
+    {"slug": "nhat-ky-hai-phut", "code": "C6.2", "stage": 6, "story": "nhat-ky", "name": "Một trang nhật ký trong hai phút", "when": "Cuối mỗi ngày công trình có thợ làm.", "desc": "Điền vài ô, trang nhật ký hôm nay sẽ hiện ra để bạn sao chép vào sổ, ghi chú hay nhóm chat của gia đình."},
+    {"slug": "kiem-tra-khi-nhan-nha", "code": "C7.1", "stage": 7, "story": "nhan-chia-khoa", "name": "Kiểm tra khi nhận nhà", "poetic": "Đi một vòng như bà", "when": "Trong buổi nghiệm thu, trước khi ký biên bản bàn giao.", "desc": "Đi qua từng mục. Chỗ nào chưa ổn thì đánh dấu, cuốn sổ sẽ đếm giúp bạn như bé Na."},
+    {"slug": "lich-cham-ngoi-nha", "code": "C8.1", "stage": 8, "story": "so-tay", "name": "Lịch chăm ngôi nhà", "when": "Sau khi dọn về, xem lại mỗi mùa.", "desc": "Những việc nên làm theo mùa và theo năm. Tick khi xong, đến kỳ sau thì bỏ tick và làm lại."}
+  ],
+  "situations": [
+    {"label": "Mới nghĩ đến", "stage": 1, "tools": ["ban-mo-ta-nhu-cau", "noi-canh-ngan-sach"]},
+    {"label": "Đang thiết kế", "stage": 2, "tools": ["mac-thu-ban-ve", "can-xin-phep-khong"]},
+    {"label": "Sắp khởi công", "stage": 4, "tools": ["so-ba-bao-gia", "muoi-dieu-trong-hop-dong"]},
+    {"label": "Đang xây", "stage": 6, "tools": ["kiem-tra-truoc-khi-che-lap", "nhat-ky-hai-phut"]},
+    {"label": "Đã ở nhà mới", "stage": 8, "tools": ["kiem-tra-khi-nhan-nha", "lich-cham-ngoi-nha"]}
+  ],
+  "quick_tools": ["noi-canh-ngan-sach", "can-xin-phep-khong", "so-ba-bao-gia"],
+  "search_suggestions": ["Có phải xin phép không?", "Xây nhà hết bao nhiêu?", "Hợp đồng cần gì?"]
+}

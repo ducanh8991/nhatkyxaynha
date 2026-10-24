@@ -1,0 +1,221 @@
+[
+ {
+  "slug": "chi-gioi-xay-dung",
+  "term": "Chỉ giới xây dựng",
+  "def": "Đường giới hạn mà tường nhà được xây sát tới. Có thể trùng hoặc lùi vào so với chỉ giới đường đỏ.",
+  "link": "/cam-nang/doc-thong-tin-quy-hoach/"
+ },
+ {
+  "slug": "chi-gioi-duong-do",
+  "term": "Chỉ giới đường đỏ",
+  "def": "Ranh giới giữa phần đất dành cho đường, vỉa hè và phần đất của các lô bên trong. Không phần nào của nhà được vượt qua.",
+  "link": "/cam-nang/doc-thong-tin-quy-hoach/"
+ },
+ {
+  "slug": "khoang-lui",
+  "term": "Khoảng lùi",
+  "def": "Phần đất giữa chỉ giới đường đỏ và chỉ giới xây dựng, thường làm sân trước.",
+  "link": "/cam-nang/doc-thong-tin-quy-hoach/"
+ },
+ {
+  "slug": "mat-do-xay-dung",
+  "term": "Mật độ xây dựng",
+  "def": "Tỷ lệ phần trăm diện tích lô đất mà ngôi nhà chiếm khi nhìn từ trên xuống.",
+  "link": "/cam-nang/doc-thong-tin-quy-hoach/"
+ },
+ {
+  "slug": "tang-cao",
+  "term": "Tầng cao",
+  "def": "Số tầng tối đa của ngôi nhà theo quy hoạch. Nên hỏi rõ tầng tum, tầng lửng, tầng hầm có tính là tầng không.",
+  "link": "/cam-nang/doc-thong-tin-quy-hoach/"
+ },
+ {
+  "slug": "cot-nen",
+  "term": "Cốt nền",
+  "def": "Độ cao của mặt nền nhà so với một mốc (thường là mặt đường). Cốt nền quá thấp thì nhà dễ thành “trũng” khi đường được nâng.",
+  "link": "/cam-nang/tim-hieu-lo-dat/"
+ },
+ {
+  "slug": "dien-tich-san",
+  "term": "Diện tích sàn",
+  "def": "Tổng diện tích các tầng có mái che của ngôi nhà.",
+  "link": "/cam-nang/dien-tich-san-quy-doi-suat-dau-tu/"
+ },
+ {
+  "slug": "dien-tich-quy-doi",
+  "term": "Diện tích quy đổi",
+  "def": "Diện tích sàn cộng thêm móng, mái, sân… theo hệ số phần trăm, dùng để tính tiền xây. Mỗi nhà thầu có thể dùng hệ số khác nhau.",
+  "link": "/cam-nang/dien-tich-san-quy-doi-suat-dau-tu/"
+ },
+ {
+  "slug": "suat-dau-tu",
+  "term": "Suất đầu tư",
+  "def": "Số tiền tính trên mỗi mét vuông xây dựng. Thay đổi theo mức hoàn thiện, địa phương và thời điểm.",
+  "link": "/cam-nang/dien-tich-san-quy-doi-suat-dau-tu/"
+ },
+ {
+  "slug": "du-phong",
+  "term": "Dự phòng",
+  "def": "Khoản tiền để riêng cho những điều chưa biết trước. Nhiều người để khoảng 10% tổng chi.",
+  "link": "/cam-nang/lap-ngan-sach-xay-nha/"
+ },
+ {
+  "slug": "ban-ve-xin-phep",
+  "term": "Bản vẽ xin phép",
+  "def": "Bộ bản vẽ nộp kèm hồ sơ xin giấy phép: vị trí nhà trên lô đất, mặt bằng, mặt đứng, mặt cắt, móng. Không đủ chi tiết để thi công.",
+  "link": "/cam-nang/ho-so-thiet-ke-gom-nhung-gi/"
+ },
+ {
+  "slug": "ban-ve-thi-cong",
+  "term": "Bản vẽ thi công",
+  "def": "Bản vẽ chi tiết để thợ làm theo: kích thước, cốt thép, đường điện, ống nước.",
+  "link": "/cam-nang/ho-so-thiet-ke-gom-nhung-gi/"
+ },
+ {
+  "slug": "ban-ve-hoan-cong",
+  "term": "Bản vẽ hoàn công",
+  "def": "Bản vẽ ghi lại ngôi nhà đúng như đã xây, kể cả những thay đổi so với bản vẽ ban đầu.",
+  "link": "/cam-nang/giay-to-khi-ban-giao/"
+ },
+ {
+  "slug": "mat-bang",
+  "term": "Mặt bằng (bản vẽ)",
+  "def": "Bản vẽ nhìn từ trên xuống sau khi “cắt ngang” nhà ở độ cao khoảng một mét: cho biết phòng, cửa, đồ đạc.",
+  "link": "/cam-nang/doc-ban-ve-co-ban/",
+  "aliases": [
+   "bản vẽ mặt bằng",
+   "mặt bằng các tầng",
+   "mặt bằng từng tầng",
+   "mặt bằng tầng một"
+  ]
+ },
+ {
+  "slug": "mat-cat",
+  "term": "Mặt cắt",
+  "def": "Bản vẽ cắt dọc ngôi nhà: cho biết chiều cao tầng, cầu thang, cốt nền.",
+  "link": "/cam-nang/doc-ban-ve-co-ban/"
+ },
+ {
+  "slug": "ket-cau",
+  "term": "Kết cấu",
+  "def": "Phần “xương” chịu lực của ngôi nhà: móng, cột, dầm, sàn.",
+  "link": "/chuyen-sau/danh-muc-ban-ve/"
+ },
+ {
+  "slug": "mong-bang",
+  "term": "Móng băng",
+  "def": "Loại móng chạy dài thành dải dưới chân tường, cột. Hay dùng cho nhà thấp tầng trên nền đất tương đối tốt.",
+  "link": "/cam-nang/tim-hieu-lo-dat/"
+ },
+ {
+  "slug": "mong-coc",
+  "term": "Móng cọc",
+  "def": "Loại móng dùng cọc đóng, ép hoặc khoan sâu xuống lớp đất tốt bên dưới. Hay dùng khi nền đất yếu hoặc nhà nhiều tầng.",
+  "link": "/cam-nang/tim-hieu-lo-dat/"
+ },
+ {
+  "slug": "giam-sat-tac-gia",
+  "term": "Giám sát tác giả",
+  "def": "Việc người thiết kế xuống công trình để xem thợ có làm đúng bản vẽ không và giải đáp khi có vướng mắc.",
+  "link": "/chuyen-sau/hop-dong-thiet-ke/"
+ },
+ {
+  "slug": "giam-sat-thi-cong",
+  "term": "Giám sát thi công",
+  "def": "Việc theo dõi, kiểm tra công trình đang xây có đúng bản vẽ, đúng vật tư, an toàn không. Chủ nhà tự làm hoặc thuê người có chuyên môn.",
+  "link": "/cam-nang/hang-muc-kiem-tra-truoc-khi-che-lap/"
+ },
+ {
+  "slug": "khoan-nhan-cong",
+  "term": "Khoán nhân công",
+  "def": "Cách giao thầu mà nhà thầu chỉ lo nhân công; chủ nhà tự mua vật tư.",
+  "link": "/cam-nang/cac-hinh-thuc-giao-thau/"
+ },
+ {
+  "slug": "khoan-gon",
+  "term": "Khoán gọn",
+  "aliases": [
+   "trọn gói"
+  ],
+  "def": "Cách giao thầu mà nhà thầu lo cả nhân công và vật tư (phần thô hoặc cả hoàn thiện). Cần danh mục vật tư rõ ràng.",
+  "link": "/cam-nang/cac-hinh-thuc-giao-thau/"
+ },
+ {
+  "slug": "danh-muc-vat-tu",
+  "term": "Danh mục vật tư",
+  "def": "Bảng liệt kê vật liệu theo hạng mục: loại, quy cách, thương hiệu hoặc khoảng giá. Giúp các báo giá so được với nhau.",
+  "link": "/chuyen-sau/danh-muc-vat-tu/"
+ },
+ {
+  "slug": "phat-sinh",
+  "term": "Phát sinh",
+  "def": "Công việc hoặc chi phí thêm ngoài hợp đồng ban đầu. Nên được mô tả, báo giá và đồng ý bằng văn bản trước khi làm.",
+  "link": "/cam-nang/phat-sinh-giua-chung/"
+ },
+ {
+  "slug": "tam-ung",
+  "term": "Tạm ứng",
+  "def": "Khoản tiền trả trước cho nhà thầu để chuẩn bị khởi công.",
+  "link": "/cam-nang/tam-ung-va-thanh-toan/"
+ },
+ {
+  "slug": "hang-muc-an",
+  "term": "Hạng mục ẩn",
+  "aliases": [
+   "phần ẩn"
+  ],
+  "def": "Những phần sẽ bị che lấp sau khi đổ bê tông, trát, lát: thép, ống nước, dây điện, chống thấm. Phải kiểm tra trước khi bị che.",
+  "link": "/cam-nang/hang-muc-kiem-tra-truoc-khi-che-lap/"
+ },
+ {
+  "slug": "chong-tham",
+  "term": "Chống thấm",
+  "def": "Lớp vật liệu ngăn nước thấm qua sàn, tường, mái. Phải làm và thử trước khi lát, ốp.",
+  "link": "/chuyen-sau/chong-tham/"
+ },
+ {
+  "slug": "bao-duong-be-tong",
+  "term": "Bảo dưỡng bê tông",
+  "def": "Giữ ẩm cho bê tông trong những ngày đầu sau khi đổ để bê tông đủ cứng, ít nứt.",
+  "link": "/cam-nang/trinh-tu-thi-cong-phan-tho/"
+ },
+ {
+  "slug": "nghiem-thu",
+  "term": "Nghiệm thu",
+  "def": "Việc kiểm tra và xác nhận một phần hoặc toàn bộ công trình đã làm đúng, đạt yêu cầu.",
+  "link": "/cam-nang/nghiem-thu-va-nhan-ban-giao/"
+ },
+ {
+  "slug": "quyet-toan",
+  "term": "Quyết toán",
+  "def": "Việc cộng sổ cuối công trình: giá trị hợp đồng, phát sinh, đã trả, còn phải trả, tiền giữ lại bảo hành.",
+  "link": "/cam-nang/quyet-toan-va-bao-hanh/"
+ },
+ {
+  "slug": "bao-hanh-cong-trinh",
+  "term": "Bảo hành công trình",
+  "aliases": [
+   "bảo hành"
+  ],
+  "def": "Thời gian nhà thầu có trách nhiệm sửa lỗi sau khi bàn giao. Với nhà tự xây, thời hạn do hai bên thỏa thuận trong hợp đồng.",
+  "link": "/cam-nang/quyet-toan-va-bao-hanh/"
+ },
+ {
+  "slug": "hoan-cong",
+  "term": "Hoàn công",
+  "def": "Cách gọi quen thuộc cho các thủ tục sau khi xây xong, với nhà ở riêng lẻ thường là ghi ngôi nhà vào giấy chứng nhận.",
+  "link": "/cam-nang/hoan-cong-va-cap-nhat-so/"
+ },
+ {
+  "slug": "giay-phep-co-thoi-han",
+  "term": "Giấy phép có thời hạn",
+  "def": "Giấy phép cấp cho nhà trên đất nằm trong quy hoạch đã công bố nhưng chưa thực hiện. Khi Nhà nước thu hồi đất, chủ nhà phải tự phá dỡ.",
+  "link": "/cam-nang/khi-nao-can-giay-phep/"
+ },
+ {
+  "slug": "bien-bao-cong-trinh",
+  "term": "Biển báo công trình",
+  "def": "Biển treo ở cổng công trường, ghi tên, địa chỉ liên hệ, số điện thoại của chủ nhà. Bắt buộc với nhà ở riêng lẻ từ 1/7/2026.",
+  "link": "/chuyen-sau/thong-bao-khoi-cong-bien-bao/"
+ }
+]

@@ -1,0 +1,110 @@
+{
+ "be-na-ve-nha": {
+  "read": "2 phút đọc",
+  "cast": "Bé Na · Anh Tùng",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "ban-mo-ta-nhu-cau",
+  "tool_name_poetic": "Bản mô tả nhu cầu một trang",
+  "tool_desc": "Năm câu hỏi để hỏi cả nhà bên mâm cơm. Câu trả lời chỉ lưu trong trình duyệt của bạn, và có thể sao chép để gửi kiến trúc sư.",
+  "back_id": "back-na"
+ },
+ "noi-canh-cua-ba": {
+  "read": "2 phút đọc",
+  "cast": "Bà nội · Chị Hạnh · Anh Tùng",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "noi-canh-ngan-sach",
+  "tool_name_poetic": "Nồi canh ngân sách",
+  "tool_desc": "Đổ các khoản chi vào nồi và xem nồi còn chỗ để nêm không. Số liệu có sẵn chỉ là ví dụ, hãy thay bằng con số của nhà bạn.",
+  "back_id": "back-canh"
+ },
+ "ao-may-do": {
+  "read": "2 phút đọc",
+  "cast": "Chị Hạnh · Bà thợ may · Chị kiến trúc sư",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "mac-thu-ban-ve",
+  "tool_name_poetic": "Mặc thử bản vẽ",
+  "tool_desc": "Sáu câu hỏi để “đi” trong bản vẽ, và bốn thứ nên có trước khi cắt vải. Dấu tick được giữ trong trình duyệt của bạn.",
+  "back_id": "back-ao"
+ },
+ "giay-xin-phep": {
+  "read": "2 phút đọc",
+  "cast": "Anh Tùng · Chị Hạnh",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "can-xin-phep-khong",
+  "tool_name_poetic": "Nhà tôi có cần xin phép không?",
+  "tool_desc": "Ba câu hỏi nhanh theo Luật Xây dựng 2025, có hiệu lực từ 1/7/2026. Kết quả chỉ để định hướng, hãy hỏi lại xã hoặc phường nơi có đất.",
+  "back_id": "back-gp"
+ },
+ "di-cho": {
+  "read": "2 phút đọc",
+  "cast": "Anh Tùng · Chị Hạnh",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "so-ba-bao-gia",
+  "tool_name_poetic": "So ba báo giá",
+  "tool_desc": "Đánh dấu những mục mỗi báo giá đã ghi rõ. Chỉ khi cả ba đủ mục, so đơn giá mới có ý nghĩa. Số có sẵn là ví dụ.",
+  "back_id": "back-cho"
+ },
+ "bat-tay": {
+  "read": "2 phút đọc",
+  "cast": "Anh Tùng · Chú Bảy · Bà nội",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "muoi-dieu-trong-hop-dong",
+  "tool_name_poetic": "Mười điều nên có trong tờ giấy",
+  "tool_desc": "Tick những điều hợp đồng của bạn đã ghi rõ. Điều nào chưa có, ngồi lại với nhà thầu và viết thêm.",
+  "back_id": "back-bt"
+ },
+ "mam-com": {
+  "read": "2 phút đọc",
+  "cast": "Chị Hạnh · Bác Lâm",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "truoc-ngay-go-bua",
+  "tool_name_poetic": "Trước ngày gõ búa",
+  "tool_desc": "Bảy việc nên làm với hàng xóm trước khi khởi công.",
+  "back_id": "back-mc"
+ },
+ "hop-thiec": {
+  "read": "2 phút đọc",
+  "cast": "Bà nội · Bé Na · Chú Bảy",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "dat-ten-giay-to",
+  "tool_name_poetic": "Đặt tên cho từng tờ giấy",
+  "tool_desc": "Một cái tên tốt cho biết đó là gì, ngày nào, bản thứ mấy và đã chốt chưa. Gõ thử, rồi sao chép tên để dùng.",
+  "back_id": "back-ht"
+ },
+ "dap-chan": {
+  "read": "2 phút đọc",
+  "cast": "Chị Hạnh · Anh giám sát",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "kiem-tra-truoc-khi-che-lap",
+  "tool_name_poetic": "Ngắm trước khi đắp chăn",
+  "tool_desc": "Những mốc cần nhìn tận mắt trước khi bê tông hay vữa trát phủ lên. Tick từng việc khi đã xem và đã chụp ảnh.",
+  "back_id": "back-dc"
+ },
+ "nhat-ky": {
+  "read": "2 phút đọc",
+  "cast": "Chị Hạnh · Chú Bảy",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "nhat-ky-hai-phut",
+  "tool_name_poetic": "Một trang nhật ký trong hai phút",
+  "tool_desc": "Điền vài ô, trang nhật ký hôm nay sẽ hiện ra để bạn sao chép vào sổ, ghi chú hay nhóm chat của gia đình.",
+  "back_id": "back-nk"
+ },
+ "nhan-chia-khoa": {
+  "read": "2 phút đọc",
+  "cast": "Bà nội · Bé Na · Anh Tùng",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "kiem-tra-khi-nhan-nha",
+  "tool_name_poetic": "Đi một vòng như bà",
+  "tool_desc": "Đi qua từng mục. Chỗ nào chưa ổn thì đánh dấu, cuốn sổ sẽ đếm giúp bạn như bé Na.",
+  "back_id": "back-ck"
+ },
+ "so-tay": {
+  "read": "2 phút đọc",
+  "cast": "Bé Na · Chị Hạnh · Người thợ sửa",
+  "hint": "Cuộn chậm, tranh sẽ kể cùng bạn",
+  "tool": "lich-cham-ngoi-nha",
+  "tool_name_poetic": "Lịch chăm ngôi nhà",
+  "tool_desc": "Những việc nên làm theo mùa và theo năm. Tick khi xong, đến kỳ sau thì bỏ tick và làm lại.",
+  "back_id": "back-st"
+ }
+}

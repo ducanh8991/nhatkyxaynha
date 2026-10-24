@@ -1,0 +1,11 @@
+
+        <div class="budget-inputs">
+          <div class="field span"><label for="fn-hang-muc">Hạng mục</label><input id="fn-hang-muc" type="text" value="Lan can tầng 2"></div>
+          <div class="field"><label for="fn-ngay">Ngày</label><input id="fn-ngay" type="date"></div>
+          <div class="field"><label for="fn-ban">Bản thứ</label><input id="fn-ban" type="number" min="1" step="1" value="3" inputmode="numeric"></div>
+          <div class="field span"><label for="fn-tt">Trạng thái</label><select id="fn-tt"><option value="nhap">Nháp</option><option value="cho-duyet">Chờ duyệt</option><option value="da-chot" selected>Đã chốt</option><option value="luu-tru">Lưu trữ</option></select></div>
+        </div>
+        <p class="fn-out"><code id="fn-out"></code></p>
+        <div class="tool-actions"><button class="btn btn-solid" type="button" id="fn-copy">Sao chép tên</button><p class="status" id="fn-status" aria-live="polite"></p></div>
+        <div class="field" id="fn-fb-wrap" hidden><label for="fn-fb">Tên tệp</label><textarea id="fn-fb" readonly rows="2"></textarea></div>
+        <p class="hint" style="margin-top:14px">Gợi ý các ngăn trong “hộp”: 01-phap-ly · 02-thiet-ke · 03-hop-dong · 04-thi-cong · 05-ban-giao. Bản cũ chuyển vào ngăn lưu trữ, không xoá.</p>

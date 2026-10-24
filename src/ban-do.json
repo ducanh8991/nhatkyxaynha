@@ -1,0 +1,201 @@
+{
+  "_ghi_chu": "Bốn mục cho mỗi chặng trên trang /ban-do/ và ô Cổng chặng trên trang /chang/<n>/. Rút từ các bài cẩm nang cùng chặng. Khi đã duyệt chuyên môn: đổi status thành da-duyet, thêm reviewer, reviewed.",
+  "status": "cho-duyet",
+  "written": "2026-10-24",
+  "stages": {
+    "1": {
+      "decisions": [
+        "Cả nhà sẽ sống thế nào trong ngôi nhà: bao nhiêu người, ai ở nhà nhiều nhất, có cần chỗ buôn bán, chỗ thờ.",
+        "Tổng số tiền có thể chi, gồm cả thiết kế, giấy tờ, nội thất, cổng rào, sân, và một khoản dự phòng.",
+        "Tiền đến từ đâu, đến lúc nào: tiền sẵn, tiền vay, tiền về theo từng đợt.",
+        "Lô đất được xây gì: kích thước thật, quy hoạch, nền đất, đường vào."
+      ],
+      "mistakes": [
+        "Lấy diện tích sàn nhân đơn giá rồi coi đó là tổng tiền.",
+        "Thiết kế theo kích thước trên giấy, đến khi đo thật mới thấy thiếu.",
+        "Không hỏi quy hoạch, đến khi xin phép mới biết phải lùi nhà vào."
+      ],
+      "papers": [
+        "Giấy chứng nhận quyền sử dụng đất (sổ đỏ), bản sao.",
+        "Thông tin quy hoạch hỏi ở xã, phường.",
+        "Bản mô tả nhu cầu một trang của cả nhà.",
+        "Bảng ngân sách tổng, có dòng dự phòng."
+      ],
+      "gate": [
+        "Đã đo lại lô đất và đối chiếu với giấy tờ.",
+        "Đã hỏi xã, phường thông tin quy hoạch của lô đất.",
+        "Cả nhà đã viết xong bản mô tả nhu cầu.",
+        "Đã có con số ngân sách tổng, gồm cả dự phòng."
+      ]
+    },
+    "2": {
+      "decisions": [
+        "Chọn ai thiết kế: kiến trúc sư độc lập, công ty thiết kế, hay đơn vị vừa thiết kế vừa thi công.",
+        "Thiết kế gồm những gì: kiến trúc, kết cấu, điện, nước, bảng khối lượng, danh mục vật tư.",
+        "Sửa được mấy lần, có giám sát tác giả không, phí bao nhiêu.",
+        "Chốt phương án: mặt bằng, mặt đứng, vật liệu chính."
+      ],
+      "mistakes": [
+        "Chỉ làm bản vẽ xin phép rồi giao hết cho thợ.",
+        "Chọn theo ảnh phối cảnh đẹp nhất, không hỏi phí gồm những gì.",
+        "Người ở nhà nhiều nhất không được xem bản vẽ."
+      ],
+      "papers": [
+        "Hợp đồng thiết kế ghi rõ phạm vi, số lần sửa, mốc giao.",
+        "Bộ hồ sơ thiết kế: kiến trúc, kết cấu, điện, cấp thoát nước.",
+        "Bảng khối lượng và danh mục vật tư.",
+        "Biên bản chốt thiết kế có chữ ký, ghi ngày và số phiên bản."
+      ],
+      "gate": [
+        "Đã có hợp đồng thiết kế bằng văn bản.",
+        "Cả nhà đã xem và góp ý bản vẽ theo cách sống.",
+        "Đã nhận đủ bản vẽ kiến trúc, kết cấu, điện, nước.",
+        "Đã ký chốt bộ bản vẽ cuối."
+      ]
+    },
+    "3": {
+      "decisions": [
+        "Nhà mình phải xin phép hay thuộc diện được miễn: hỏi UBND xã, phường là chắc nhất.",
+        "Nếu phải xin: tự nộp hồ sơ hay nhờ đơn vị thiết kế làm giúp.",
+        "Nếu được miễn: giữ lại giấy tờ gì để chứng minh."
+      ],
+      "mistakes": [
+        "Đọc tiêu đề “dưới 7 tầng không cần xin phép” rồi khởi công, không hỏi xã, phường.",
+        "Khởi công khi đang chờ giấy phép.",
+        "Xây khác giấy phép, rồi gặp khó khi ghi nhà vào giấy chứng nhận."
+      ],
+      "papers": [
+        "Đơn đề nghị cấp giấy phép xây dựng.",
+        "Giấy tờ về quyền sử dụng đất.",
+        "Bản vẽ xin phép: vị trí, mặt bằng, mặt đứng, mặt cắt, móng, đấu nối.",
+        "Giấy phép xây dựng, hoặc giấy tờ cho thấy nhà thuộc diện được miễn."
+      ],
+      "gate": [
+        "Đã biết chắc nhà mình phải xin phép hay được miễn.",
+        "Đã có giấy phép, hoặc đã lưu giấy tờ về việc được miễn.",
+        "Bản vẽ thi công khớp với bản vẽ xin phép."
+      ]
+    },
+    "4": {
+      "decisions": [
+        "Hình thức giao thầu: khoán nhân công, khoán phần thô hay trọn gói.",
+        "Hỏi giá ít nhất ba nhà thầu, gửi cùng bộ bản vẽ và danh mục vật tư.",
+        "Chọn nhà thầu theo công trình thật đã làm, không chỉ theo giá.",
+        "Các mốc thanh toán, tạm ứng, tiền giữ lại bảo hành."
+      ],
+      "mistakes": [
+        "Chọn ngay người báo giá thấp nhất mà không so danh mục.",
+        "Bỏ qua phần “chưa bao gồm” ở cuối báo giá.",
+        "Giao hết cho người quen, không viết gì ra giấy."
+      ],
+      "papers": [
+        "Các báo giá đã so, ghi rõ cách tính diện tích.",
+        "Danh mục vật tư kèm hợp đồng.",
+        "Hợp đồng thi công: phạm vi, tiến độ, thanh toán, phát sinh, bảo hành.",
+        "Lịch thanh toán theo mốc công việc."
+      ],
+      "gate": [
+        "Đã so ít nhất hai, ba báo giá trên cùng một danh mục.",
+        "Đã đến xem công trình thật của nhà thầu.",
+        "Đã ký hợp đồng có danh mục vật tư và lịch thanh toán."
+      ]
+    },
+    "5": {
+      "decisions": [
+        "Ngày khởi công, giờ làm việc, cách che chắn và dọn dẹp.",
+        "Ai là người phụ trách công trường, liên lạc thế nào.",
+        "Chỗ để vật tư, điện nước tạm, đường cho xe vào.",
+        "Cách sắp xếp hồ sơ ngôi nhà: hộp giấy và thư mục số."
+      ],
+      "mistakes": [
+        "Không chụp hiện trạng nhà bên cạnh, đến khi có vết nứt không ai nhớ nó có từ bao giờ.",
+        "Khởi công khi bản vẽ chưa chốt, “vừa làm vừa sửa”.",
+        "Đổ vật tư ra đường, bị nhắc nhở ngay tuần đầu."
+      ],
+      "papers": [
+        "Giấy phép hoặc giấy tờ về việc được miễn, hợp đồng, bản vẽ đã chốt.",
+        "Biên bản hiện trạng nhà liền kề, có ảnh và chữ ký hai bên.",
+        "Biển báo công trình treo ở cổng.",
+        "Hộp hồ sơ ngôi nhà đã chia ngăn."
+      ],
+      "gate": [
+        "Đã chào hỏi hàng xóm và báo ngày khởi công.",
+        "Đã lập biên bản hiện trạng nhà liền kề.",
+        "Đã treo biển báo công trình.",
+        "Đã có điện nước tạm và chỗ để vật tư."
+      ]
+    },
+    "6": {
+      "decisions": [
+        "Những mốc nào mình phải có mặt: trước khi đổ bê tông, trước khi trát, trước khi lát.",
+        "Ai kiểm tra phần kỹ thuật: kỹ sư, giám sát, hay đơn vị thiết kế.",
+        "Cách xử lý phát sinh: mô tả, báo giá, đồng ý bằng văn bản.",
+        "Chọn và chốt mẫu hoàn thiện trước khi cần một, hai tuần."
+      ],
+      "mistakes": [
+        "Không hẹn trước với nhà thầu, đến nơi thì bê tông đã đổ.",
+        "Không chụp ảnh điện nước trước khi trát.",
+        "Đồng ý thay đổi bằng miệng giữa công trường."
+      ],
+      "papers": [
+        "Nhật ký công trình và ảnh từng mốc.",
+        "Biên bản kiểm tra từng hạng mục sẽ bị che lấp.",
+        "Danh sách phát sinh đã đồng ý, có chữ ký.",
+        "Phiếu chọn mẫu vật liệu hoàn thiện."
+      ],
+      "gate": [
+        "Đã xem và chụp móng, thép, điện nước, chống thấm trước khi che lấp.",
+        "Mọi phát sinh đều có giấy tờ đồng ý.",
+        "Tổng phát sinh vẫn nằm trong khoản dự phòng.",
+        "Đã chốt đủ mẫu hoàn thiện."
+      ]
+    },
+    "7": {
+      "decisions": [
+        "Ngày nhận nhà: ban ngày, có điện, có nước.",
+        "Những lỗi nào phải sửa trước khi ký, lỗi nào ghi lại kèm hạn sửa.",
+        "Số tiền quyết toán và tiền giữ lại bảo hành.",
+        "Có làm thủ tục ghi nhà vào giấy chứng nhận ngay không."
+      ],
+      "mistakes": [
+        "Nhận nhà buổi tối, không thấy vết sơn, vết nứt.",
+        "Ký bàn giao rồi mới đi kiểm tra.",
+        "Thanh toán hết trước khi nhận đủ giấy tờ và sửa xong lỗi."
+      ],
+      "papers": [
+        "Biên bản nghiệm thu, bàn giao, kèm danh sách lỗi có ảnh.",
+        "Bản vẽ hoàn công hoặc bản vẽ đã cập nhật, sơ đồ điện nước thực tế.",
+        "Phiếu bảo hành, hóa đơn, hướng dẫn thiết bị.",
+        "Bảng quyết toán đối chiếu với các phát sinh đã ký."
+      ],
+      "gate": [
+        "Đã đi kiểm tra từng phòng và có danh sách lỗi.",
+        "Đã nhận đủ giấy tờ bàn giao.",
+        "Đã ký biên bản bàn giao, ghi rõ ngày bắt đầu bảo hành.",
+        "Đã quyết toán và thống nhất tiền giữ lại bảo hành."
+      ]
+    },
+    "8": {
+      "decisions": [
+        "Ai trong nhà giữ sổ tay ngôi nhà và hồ sơ.",
+        "Lịch chăm nhà theo mùa: nồm, mưa bão, nắng nóng.",
+        "Khi có sự cố thì gọi ai: thợ điện, thợ nước, nhà thầu còn bảo hành."
+      ],
+      "mistakes": [
+        "Chỉ một người trong nhà biết van nước tổng, aptomat tổng ở đâu.",
+        "Sơn đè lên vết thấm mà không tìm nguồn nước.",
+        "Sửa chữa xong không ghi lại, lần sau làm lại từ đầu."
+      ],
+      "papers": [
+        "Sổ tay ngôi nhà: vật liệu, đường ống, dây điện, số điện thoại thợ.",
+        "Hồ sơ giữ suốt đời: giấy tờ đất, giấy phép, bản vẽ hoàn công, hợp đồng, bảo hành.",
+        "Ghi chép mỗi lần sửa chữa, thay thiết bị."
+      ],
+      "gate": [
+        "Cả nhà biết van nước tổng và aptomat tổng ở đâu.",
+        "Đã lập sổ tay ngôi nhà.",
+        "Đã đặt lịch chăm nhà theo mùa."
+      ]
+    }
+  }
+}

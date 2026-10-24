@@ -1,0 +1,12 @@
+
+        <div class="budget-inputs">
+          <div class="field"><label for="log-ngay">Ngày</label><input id="log-ngay" type="date"></div>
+          <div class="field"><label for="log-troi">Thời tiết</label><select id="log-troi"><option>Nắng</option><option>Mưa</option><option>Âm u</option><option>Mưa rào chiều</option></select></div>
+          <div class="field span"><label for="log-tho">Số thợ có mặt</label><input id="log-tho" type="number" min="0" step="1" value="6" inputmode="numeric"></div>
+          <div class="field span"><label for="log-viec">Hôm nay làm đến đâu?</label><textarea id="log-viec" placeholder="Ví dụ: đào móng xong 2/3, đã đổ bê tông lót."></textarea></div>
+          <div class="field span"><label for="log-ghi">Ai nói gì, có gì cần nhớ?</label><textarea id="log-ghi" placeholder="Ví dụ: chú Bảy nói nền ổn. Mai giao thép."></textarea></div>
+        </div>
+        <pre class="log-out" id="log-out"></pre>
+        <div class="tool-actions"><button class="btn btn-solid" type="button" id="log-copy">Sao chép trang nhật ký</button><p class="status" id="log-status" aria-live="polite"></p></div>
+        <div class="field" id="log-fb-wrap" hidden><label for="log-fb">Trang nhật ký</label><textarea id="log-fb" readonly rows="6"></textarea></div>
+        <p class="hint" style="margin-top:12px">Đừng quên kèm ít nhất một tấm ảnh mỗi ngày.</p>
